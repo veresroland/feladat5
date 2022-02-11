@@ -3,4 +3,52 @@
 	top:-39px;
 	left:580px;
 	width:120px;
+	background-color: rgba(255, 165, 0, 0.6);
+	color: white;
+	margin: -35px;
+	padding: 15px;
+
+}
+
+#tovabb:hover
+{
+	background-color: black;
+}
+
+#tartalom
+{
+	width: 600px;
+	margin-top: 0px;
+	margin: auto;
+}
+
+table
+{
+	width: 500px;
+}
+
+td
+{
+	width: 75px;
+	text-align: center;
+}
+
+div
+{
+	text-align: justify;
+}
+
+a
+{
+  text-decoration: none;
+}
+
+h1
+{
+	border-bottom: 1px solid lightgray;
+}
+
+span
+{
+	font-weight: bold;
 }
